@@ -89,7 +89,10 @@ ZkAuctiSphere places great emphasis on testing:
 
 Explore the endless possibilities of ZkAuctiSphere. Join us in shaping the future of online auctions, where blockchain meets user-friendly experience.
 
-Discover more by visiting our [Demo Site](). Watch our [Video]() to witness ZkAuctiSphere in action.
+Discover more by visiting our 
+- [Demo Site](). 
+- Watch our [Video]()
+- [github](https://github.com/samar19/Zk-AuctiSphere)to witness ZkAuctiSphere in action.
 
 ## Overcoming Challenges
 
